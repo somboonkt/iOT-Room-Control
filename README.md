@@ -1,2 +1,1 @@
-# AWA
-AWA Resort Koh Chang
+# Hotel - Tomm control 
